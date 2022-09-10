@@ -1,4 +1,4 @@
-# Handy C# Terminal Scripts.
+# Handy C Scripts.
 
 **CompileToSingleExecutableFile** enables the user to compile a visual studio project to a single file executable, usable on every Windows pc with the .NET framework installed.
 
